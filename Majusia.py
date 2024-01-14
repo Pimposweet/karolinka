@@ -1,3 +1,3 @@
-bobo = None
-pierscionek = None
-slub = "szybko"
+bobo = 3
+pierscionek = 10
+slub = "bardzo szybko"
